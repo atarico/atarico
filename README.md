@@ -11,6 +11,14 @@
 
 - 📫 How to reach me **agustintarico9gmail.com**
 
+```js
+const atarico = {
+  tecnologies: ['web', 'mobile'],
+  passions: 'web development'
+}
+
+```
+
 <!-- ### Blogs posts -->
 
 <!-- BLOG-POST-LIST:START -->
