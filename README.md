@@ -15,7 +15,7 @@
 const atarico = {
   tecnologies: ['web', 'mobile'],
   code: ['JavaScript', 'TypeScript', 'html', 'css'],
-  tools: ['React', 'Node']
+  tools: ['React', 'Node'],
   passions: 'web development'
 }
 
