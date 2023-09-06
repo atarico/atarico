@@ -7,7 +7,7 @@
 
 <!-- <p align="center"> <a href="https://instagram.com/atarico9" target="blank"><img src="https://img.shields.io/twitter/follow/atarico?logo=twitter&style=for-the-badge" alt="atarico" /></a> </p> -->
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native & TypeScript**
 
 - 📫 How to reach me **agustintarico9gmail.com**
 
