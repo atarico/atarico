@@ -30,10 +30,10 @@ const atarico = {
 <p align="center">
 
 <a href="https://linkedin.com/in/agustin-tarico" target="blank">
-<img align="center" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" alt="agustin-tarico"/>
+<img align="center" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" alt="agustin-tarico" width="22px"/>
 </a>
 <a href="https://instagram.com/atarico9" target="blank">
-<img align="center" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" alt="atarico9"/>
+<img align="center" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" alt="atarico9" width="22px"/>
 </a>
 
 </p>
