@@ -22,7 +22,7 @@ const atarico = {
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 
-<a href="https://linkedin.com/in/agustin-tarico" target="blank">
+<a href="https://linkedin.com/in/agustin-tarico" target="blank" style="margin-right:0.7rem;">
 <img align="center" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=e0e0e0" alt="Agustin Tarico LinkedIN" width="28px"/>
 </a>
 <a href="https://instagram.com/atarico9" target="blank">
