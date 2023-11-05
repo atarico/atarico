@@ -29,8 +29,12 @@ const atarico = {
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 
-<a href="https://linkedin.com/in/agustin-tarico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin-tarico" height="30" width="40" /></a>
-<a href="https://instagram.com/atarico9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atarico9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/agustin-tarico" target="blank">
+<img align="center" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" alt="agustin-tarico"/>
+</a>
+<a href="https://instagram.com/atarico9" target="blank">
+<img align="center" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" alt="atarico9"/>
+</a>
 
 </p>
 
