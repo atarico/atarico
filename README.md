@@ -20,7 +20,7 @@ const atarico = {
 ```
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<div align="left">
 
 <a href="https://linkedin.com/in/agustin-tarico" target="blank">
 <img align="center" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=e0e0e0" alt="agustin-tarico" width="28px"/>
@@ -29,7 +29,7 @@ const atarico = {
 <img align="center" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=e0e0e0" alt="atarico9" width="28px"/>
 </a>
 
-</p>
+</div>
 
 <h2 align="center">Languages and Tools</h2>
   <div align='center'>
