@@ -23,11 +23,11 @@ const atarico = {
 <div align="left">
 
 <a href="https://linkedin.com/in/agustin-tarico" target="blank">
-<img align="left" alt="Agustin Tarico LinkedIN" width="28px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+<img align="left" alt="Agustin Tarico LinkedIN" width="28px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=e0e0e0" />
 </a>
 
 <a href="https://instagram.com/atarico9" target="blank">
-<img align="left" alt="Agustin Tarico Instagram" width="28px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+<img align="left" alt="Agustin Tarico Instagram" width="28px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=e0e0e0" />
 </a>
 
 
