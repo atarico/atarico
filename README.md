@@ -33,6 +33,8 @@ const atarico = {
 
 </div>
 
+<br>
+
 <h2 align="center">Languages and Tools</h2>
   <div align='center'>
     <code><img src="assets/icons/html.svg" width="40" title="HTML"/></code>
