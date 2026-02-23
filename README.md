@@ -1,11 +1,11 @@
 <h1 align="center">
   Hi, I'm Agustín Tarico <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1> 
-<h3 align="center">I'm FullStack web developer 👨‍💻 from Argentina! 🌎</h3>
+<h3 align="center">I'm web developer 👨‍💻 from Argentina! 🌎</h3>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=atarico&label=Profile%20views&color=0e75b6&style=flat" alt="atarico" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=atarico&label=Profile%20views&color=0e75b6&style=flat" alt="atarico" /> </p> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atarico" alt="atarico" /></a> </p> -->
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atarico" alt="atarico" /></a> </p> -->
 
 
 - 🌱 I’m currently learning **TypeScript & Next.js**
