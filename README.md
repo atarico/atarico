@@ -34,6 +34,7 @@ const atarico = {
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/atarico/UTN-PROGRAMACION1-C-)
 [![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/atarico/UTN-TUP-POO)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/atarico?tab=repositories&language=rust)
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/atarico?tab=repositories&language=python)
 
 #### 📚 Libraries
 
